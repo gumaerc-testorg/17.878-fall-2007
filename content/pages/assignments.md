@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 99cc9120-9919-b401-0fba-c0b00085f50d
 ---
 
-In addition to the weekly assignments given here, students are required to give an oral presentation and write a dissertation research proposal. Details can be found in the [syllabus]({{< baseurl >}}/pages/syllabus) section.
+In addition to the weekly assignments given here, students are required to give an oral presentation and write a dissertation research proposal. Details can be found in the {{% resource_link 7d175ae4-5be0-4c1d-2140-275485449681 "syllabus" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
